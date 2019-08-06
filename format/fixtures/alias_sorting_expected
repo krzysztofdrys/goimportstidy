@@ -1,0 +1,19 @@
+package main
+
+import (
+	c "flag"
+	_ "fmt"
+	"os"
+
+	_ "gitlab.com/krzysztofdrys/a"
+	"gitlab.com/krzysztofdrys/b"
+	a3 "gitlab.com/krzysztofdrys/c"
+
+	d3 "github.com/krzysztofdrys/a"
+	"github.com/krzysztofdrys/b"
+	d1 "github.com/krzysztofdrys/c"
+)
+
+func main() {
+	fmt.Println()
+}

@@ -1,0 +1,11 @@
+package main
+
+import (
+	"github.com/krzysztofdrys/file/a"
+	"github.com/krzysztofdrys/file/b"
+	"github.com/krzysztofdrys/file/c"
+)
+
+func main() {
+	fmt.Println()
+}
